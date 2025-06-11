@@ -1,4 +1,4 @@
-# COS435 Final Project: Sleeper Agents in Safety Critical Applications
+# Sleeper Agents in Safety Critical Applications
 
 Read paper here: https://github.com/richar-gasquet/cos435-sleeper-agents/blob/main/_COS_435__Intro_RL_Final_Project___Sleeper_Agents.pdf
 
